@@ -20,3 +20,5 @@ git commit -m "povinny komentar" - najprv musi byt vykonany git add .
 #v Exploreri to "U" znamená untracked, čiže git o tom nevie ešte
 
 test upravy priamo v githubu cez editor - git pull
+
+git push - po commite sync na github
