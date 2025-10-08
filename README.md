@@ -9,3 +9,6 @@ git config --global user.email ""
 git status
 - biela tečka hore u názvu (Readme.md) znamená že je neuložená zmena
 git diff
+
+git add .
+git commit -m "povinny komentar" - najprv musi byt vykonany git add .
