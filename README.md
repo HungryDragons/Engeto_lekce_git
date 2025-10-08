@@ -22,3 +22,5 @@ git commit -m "povinny komentar" - najprv musi byt vykonany git add .
 test upravy priamo v githubu cez editor - git pull
 
 git push - po commite sync na github
+
+test upravy v novej branch
