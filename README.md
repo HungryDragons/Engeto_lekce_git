@@ -19,3 +19,4 @@ git commit -m "povinny komentar" - najprv musi byt vykonany git add .
 #príkaz na nový adresár "mk dir názov_suboru"
 #v Exploreri to "U" znamená untracked, čiže git o tom nevie ešte
 
+test upravy priamo v githubu cez editor - git pull
